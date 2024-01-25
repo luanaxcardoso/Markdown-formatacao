@@ -39,6 +39,18 @@ Para criar uma lista de tarefas, coloque um hífen e um espaço seguidos de [ ] 
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Tarefas concluídas
 
+## Tabela 
+Para adicionar mais linhas, você pode seguir o mesmo padrão, separando os dados com | e usando --- para criar a linha de separação entre o cabeçalho e os dados.
+
+![tabela](https://github.com/luanaxcardoso/Markdown-formatacao/assets/112970416/da817b6c-6990-4c30-9853-17e8d908aacf)
+
+
+| Coluna 1    | Coluna 2     | Coluna 3    |
+| ------------| ------------ | ------------|
+| Dado 1      | Dado 2       | Dado 3      |
+| Dado 4      | Dado 5       | Dado 6      |
+| Dado 7      | Dado 8       | Dado 9      |
+
 ## Imagens
 Você pode exibir uma imagem adicionando ! e colocando o texto Alt entre [ ]. O texto alternativo é um texto curto equivalente às informações da imagem. Em seguida, coloque o link da imagem entre parênteses ().
 
@@ -46,6 +58,7 @@ Você pode exibir uma imagem adicionando ! e colocando o texto Alt entre [ ]. O 
 
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
 
 ## Alertas
 Para adicionar um alerta, use uma linha de citação especial especificando o tipo de alerta, seguida pelas informações do alerta em uma citação padrão, 5 tipos de alertas estão disponíveis:
