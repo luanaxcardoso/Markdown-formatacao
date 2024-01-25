@@ -1,6 +1,6 @@
 # Markdown Formatacao Básica
 
-## Para criar um título, adicione de um a seis símbolos # antes do texto do título. O número de # que você usa determina o nível hierárquico e o tamanho da face de tipos do título.
+## Para criar um título, adicione de 1 a 6 símbolos # antes do texto do título. O número de # que você usa determina o nível hierárquico e o tamanho.
 ![titulo](https://github.com/luanaxcardoso/Markdown-formatacao/assets/112970416/e091ec79-184c-4245-8604-c9dbb3a2a95d)
 
 # Primeiro título
